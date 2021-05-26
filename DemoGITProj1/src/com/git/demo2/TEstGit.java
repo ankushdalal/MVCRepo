@@ -11,6 +11,7 @@ public class TEstGit {
 	public void m1() {
 
 		System.out.println("Inside TestgitDemo m1() 25698745");
+		System.out.println("After ingnoring 1 file");
 
 	}
 }
