@@ -8,4 +8,8 @@ public class TEstGit {
 
 	}
 
+	public void m1()
+	{
+		System.out.println("Inside TestgitDemo m1()");
+	}
 }
